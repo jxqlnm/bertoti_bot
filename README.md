@@ -37,14 +37,14 @@ Nº 6: Reconhecimento em vez de lembrança
 Minimize a carga de memória do usuário tornando visíveis elementos, ações e opções. O usuário não deveria ter que lembrar informações de uma parte da interface para outra. As informações necessárias para usar o design (por exemplo, rótulos de campos ou itens de menu) devem estar visíveis ou facilmente recuperáveis ​​quando necessário.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/1d794139-6b29-47c4-8f68-a8ee48d1034a) ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/c48c6bec-95c8-4d36-ab65-160a016d6ffb)
--Os sites de e-commerce, por exemplo, costumam seguir padrões em seu layout, tendo a barra de busca no topo, o carrinho no canto superior direito, na página do produto fica uma foto deste a esquerda e sua descrição na direita, permitindo assim que o usuário reconheça o layout de experiências anteriores que ele teve nos demais sites do gênero, focando mais sua atenção nos produtos, do que em aprender a utilizar o site.
+- Os sites de e-commerce, por exemplo, costumam seguir padrões em seu layout, tendo a barra de busca no topo, o carrinho no canto superior direito, na página do produto fica uma foto deste a esquerda e sua descrição na direita, permitindo assim que o usuário reconheça o layout de experiências anteriores que ele teve nos demais sites do gênero, focando mais sua atenção nos produtos, do que em aprender a utilizar o site.
 
 Nº 7: Flexibilidade e eficiência de uso:
 Atalhos – ocultos para usuários novatos – podem acelerar a interação do usuário experiente, para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/198c3725-818b-436f-a5a2-9187a00865a9)
 
--Os atalhos de teclado do Word, por exemplo, permitem essa interação mais rápida, pois reduzem a quantidade de cliques que o usuário precisaria para realizar uma ação, além de diminuir o tempo gasto para achar onde aquela ação está na plataforma, permitindo realizá-la apertando poucas teclas.
+- Os atalhos de teclado do Word, por exemplo, permitem essa interação mais rápida, pois reduzem a quantidade de cliques que o usuário precisaria para realizar uma ação, além de diminuir o tempo gasto para achar onde aquela ação está na plataforma, permitindo realizá-la apertando poucas teclas.
 
 Nº 8: Design estético e minimalista:
 As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação numa interface compete com as unidades de informação relevantes e diminui a sua visibilidade relativa.
@@ -56,11 +56,11 @@ Nº 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros:
 As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/ce2d0064-12b0-4e27-8134-c9f451a537bc)
--Por exemplo, o formulário de criação de conta da Amazon mostra quando um dado está preenchido incorretamente, no momento de preencher os dados a plataforma orienta onde está o erro, próximo do campo em que ele ocorreu e os passos para corrigi-lo.
+- Por exemplo, o formulário de criação de conta da Amazon mostra quando um dado está preenchido incorretamente, no momento de preencher os dados a plataforma orienta onde está o erro, próximo do campo em que ele ocorreu e os passos para corrigi-lo.
 
 
 Nº 10: Ajuda e documentação:
 É melhor que o sistema não precise de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a compreender como concluir suas tarefas.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/babf23e8-a250-4158-9342-0732f0898c60)
--O site da Hurb possui um FAQ que permite aos usuários procurarem dúvidas mais frequentes e suas respectivas soluções, podendo assim resolver por conta um problema que esteja aqui.
+- O site da Hurb possui um FAQ que permite aos usuários procurarem dúvidas mais frequentes e suas respectivas soluções, podendo assim resolver por conta um problema que esteja aqui.
