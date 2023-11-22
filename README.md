@@ -43,6 +43,7 @@ Nº 7: Flexibilidade e eficiência de uso:
 Atalhos – ocultos para usuários novatos – podem acelerar a interação do usuário experiente, para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/198c3725-818b-436f-a5a2-9187a00865a9)
+
 -Os atalhos de teclado do Word, por exemplo, permitem essa interação mais rápida, pois reduzem a quantidade de cliques que o usuário precisaria para realizar uma ação, além de diminuir o tempo gasto para achar onde aquela ação está na plataforma, permitindo realizá-la apertando poucas teclas.
 
 Nº 8: Design estético e minimalista:
