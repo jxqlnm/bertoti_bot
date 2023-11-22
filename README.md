@@ -70,6 +70,11 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/08686a44-5005-48f2-b03d-12d50e3cd27a)
 -O site da Apple é um bom exemplo de estética e design minimalista, ele é bem simples e objetivo, mostrando o nome do produto, uma linha o descrevendo e a foto dele grande e destacada com cores contrastantes, além disso o site valoriza o espaço em branco, os elementos são bem organizados e a tipografia usada é simples e limpa.
 
+![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/f358eb53-2d3a-40c9-a153-360b149164b6)
+
+- Site com muita informação e pouco objetivo.
+
+
 
 Nº 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros:
 As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva.
