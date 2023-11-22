@@ -9,19 +9,22 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 Nº 2: Correspondência entre o sistema e o mundo real:
 O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica.
 
-![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/2b176f9c-e10f-4360-b7d8-5b6f55b72276)
+![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/8733f2a1-b17a-4499-bef2-dc8f169b7425)
+
 - O símbolo de uma lixeira representa a ação de excluir algo, o de lupa a de buscar, representando assim ações que tenham uma conexão com o mundo real.
 
 
 Nº 3: Controle e liberdade do usuário:
 Os usuários geralmente executam ações por engano. Eles precisam de uma “saída de emergência” claramente marcada para abandonar a ação indesejada sem ter que passar por um processo extenso.
-![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/0e61ff7e-6d46-4b38-a6cd-f74449919558)
+![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/31486e7f-ec61-4584-a2d5-ee408fd659c6)
+
 - O Gmail, por exemplo, permite que o usuário desfaça a ação de excluir um e-mail, portanto a caixa com a opção “desfazer” permite que o usuário se recupere, dando a ele controle sobre a situação, caso ela tenha sido realizada por engano.
 
 
 Nº 4: Consistência e padrões:
 Os usuários não deveriam se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. Siga as convenções da plataforma e do setor.
-![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/fb1a2d5c-5016-4da8-b42f-91d61c881bf9)
+![284884035-fb1a2d5c-5016-4da8-b42f-91d61c881bf9 (1)](https://github.com/jxqlnm/bertoti_bot/assets/128145943/0e011402-1159-49ee-9318-65ebb53e51fc)
+
 - Os programas da Microsoft, por exemplo, seguem padrões, sendo que os itens do menu ficam sempre na parte superior, os ícones que realizam a mesma ação são repetidos em todas as interfaces, como os da seção Clipboard, em que a tipografia é a mesma e mantém o mesmo tamanho e cor.
 
 
