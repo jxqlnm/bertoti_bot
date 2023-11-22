@@ -8,12 +8,22 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 
 - Quando estudamos um curso on-line, somos informados de tudo que ocorre na tela, como a barra do player que mostra o quanto do vídeo já foi carregado, em qual parte o vídeo está, o tempo de duração dele, o quanto já foi assistido, do lado direito fica claro qual vídeo está sendo reproduzido, quais já foram assistidos e quais os próximos.
 
+  ![237388706-71a01671-134a-4a5b-b331-a71adcb21ff9](https://github.com/jxqlnm/bertoti_bot/assets/128145943/49155597-bb1c-47ca-b146-12324e8216de)
+ 
+ -  Aqui a tela do Governo mostra o erro.
+
+
 Nº 2: Correspondência entre o sistema e o mundo real:
 O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/8733f2a1-b17a-4499-bef2-dc8f169b7425)
 
 - O símbolo de uma lixeira representa a ação de excluir algo, o de lupa a de buscar, representando assim ações que tenham uma conexão com o mundo real.
+
+  ![237390609-f5d270c3-4762-40b5-817c-f94596f9de46](https://github.com/jxqlnm/bertoti_bot/assets/128145943/174ad340-214f-4628-9345-4deaf680897d)
+
+  - Aqui o SIGA todos o ícones são iguais causando confusão.
+
 
 
 Nº 3: Controle e liberdade do usuário:
