@@ -4,7 +4,7 @@ Nº 1: Visibilidade do status do sistema:
 O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável.
 
 ![image](https://github.com/jxqlnm/bertoti_bot/assets/128145943/9b132140-a625-4622-9b63-8579213e3fa1)
--Quando estudamos um curso on-line, somos informados de tudo que ocorre na tela, como a barra do player que mostra o quanto do vídeo já foi carregado, em qual parte o vídeo está, o tempo de duração dele, o quanto já foi assistido, do lado direito fica claro qual vídeo está sendo reproduzido, quais já foram assistidos e quais os próximos.
+- Quando estudamos um curso on-line, somos informados de tudo que ocorre na tela, como a barra do player que mostra o quanto do vídeo já foi carregado, em qual parte o vídeo está, o tempo de duração dele, o quanto já foi assistido, do lado direito fica claro qual vídeo está sendo reproduzido, quais já foram assistidos e quais os próximos.
 
 Nº 2: Correspondência entre o sistema e o mundo real:
 O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica.
